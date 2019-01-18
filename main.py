@@ -21,7 +21,8 @@ class ApplicationMain(HasTraits):
     view = View(HSplit(left_panel,
                  right_panel),
                 width = 1280,
-                height = 600,
+                height = 550,
+                resizable=True,
                 title="My First Python3 GUI Interface"
             )
 
