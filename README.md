@@ -12,7 +12,15 @@ I've stripped back the requirements and wrapped it all up in a conda environment
 
 ```
 conda-env create --file Python3GUITemplate.yml
+
 ```
+
+OR
+
+```
+conda create --name ENVIRONMENTNAME --file Python3GUITemplate.yml
+```
+
 ## Getting Started
 
 To run this program, you simply load your environment and run.
