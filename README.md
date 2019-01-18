@@ -1,4 +1,4 @@
-Python GUI Template
+Python 3 GUI Template
 =================
 
 

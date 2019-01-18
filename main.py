@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# Brendan Griffen - January 2019
+
 from firstcalc import FirstCalc
 from Commonqt4 import *
 
@@ -17,9 +21,8 @@ class ApplicationMain(HasTraits):
     view = View(HSplit(left_panel,
                  right_panel),
                 width = 1280,
-                height = 750,
-                resizable = True,
-                title="My First Python GUI Interface"
+                height = 600,
+                title="My First Python3 GUI Interface"
             )
 
     def _display_default(self):
