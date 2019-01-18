@@ -1,4 +1,4 @@
-Python33 GUI Template (using qt4+matplotlib)
+Python3 GUI Template (using qt4+matplotlib)
 =================
 
 
