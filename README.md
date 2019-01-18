@@ -13,7 +13,7 @@ I've stripped back the requirements and wrapped it all up in a conda environment
 
 For Ubuntu (16.04 verified):
 ```
-conda env create -f Python3GUITemplate.yml
+conda env create -f Python3GUITemplate_ubuntu.yml
 ```
 
 For Mac OSX (10.13.6 verified):
