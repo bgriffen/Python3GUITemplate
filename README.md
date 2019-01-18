@@ -1,7 +1,7 @@
 Python3 GUI Template (using qt4+matplotlib)
 =================
 
-![View Upon Launch.](./PythonGUI.png)
+![View Upon Launch.](./PythonGUI_mac.png)
 
 Python2 [is dead](https://pythonclock.org/). Long live Python3. 
 
