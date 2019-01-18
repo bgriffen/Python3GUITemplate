@@ -12,7 +12,6 @@ I've stripped back the requirements and wrapped it all up in a conda environment
 
 ```
 conda-env create --file Python3GUITemplate.yml
-
 ```
 
 OR
