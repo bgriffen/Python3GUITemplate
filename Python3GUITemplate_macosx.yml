@@ -1,4 +1,4 @@
-name: imcyt3
+name: Python3GUITemplate
 channels:
   - defaults
 dependencies:
@@ -44,5 +44,5 @@ dependencies:
   - wheel=0.31.1=py35_0
   - xz=5.2.4=h1de35cc_4
   - zlib=1.2.11=h1de35cc_3
-prefix: /Users/bgriffen/anaconda3/envs/imcyt3
+prefix: /Users/bgriffen/anaconda3/envs/Python3GUITemplate
 
