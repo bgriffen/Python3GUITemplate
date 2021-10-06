@@ -1,5 +1,6 @@
-Python3 GUI Template (using qt4+matplotlib)
+Python3 GUI Template^
 =================
+^ using qt4+matplotlib
 
 ![View Upon Launch.](./PythonGUI_mac.png)
 
@@ -35,6 +36,6 @@ source activate Python3GUITemplate
 python main.py
 ```
 
-There is very comprehensive documentation on using Traits [here](http://code.enthought.com/projects/traits/documentation.php) and a lot of [tutorials](http://docs.enthought.com/traitsui/tutorials/index.html). I have some additional information relating to the Traits/TraitsUI functionality found [here[(http://brendangriffen.com/creating-a-GUI-in-Python/). Note: that post is based on the old Python2 version.
+There is very comprehensive documentation on using Traits [here](http://code.enthought.com/projects/traits/documentation.php) and a lot of [tutorials](http://docs.enthought.com/traitsui/tutorials/index.html). I have some additional information relating to the Traits/TraitsUI functionality found [here](http://brendangriffen.com/creating-a-GUI-in-Python/). Note: that post is based on the old Python2 version.
 
 There is an additional script `standalonematplotlib.py` which just demonstrates the matplotlib functionality. 
