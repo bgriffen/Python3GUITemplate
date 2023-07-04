@@ -3,7 +3,7 @@
 # Brendan Griffen - January 2019
 
 from firstcalc import FirstCalc
-from Commonqt4 import *
+from CommonMPL import *
 
 class ApplicationMain(HasTraits):
 

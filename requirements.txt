@@ -1,0 +1,5 @@
+matplotlib==3.7.0
+numpy==1.24.3
+pyface==8.0.0
+traits==6.4.1
+traitsui==8.0.0
