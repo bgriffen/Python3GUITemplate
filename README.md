@@ -5,7 +5,7 @@ Python3 GUI Template
 
 Python2 [is dead](https://pythonclock.org/). Long live Python3. 
 
-This template is an improved and upgrade template made from the pieces of my [Python2Template](https://github.com/bgriffen/PythonGUITemplate). I've removed MayAvi and reduced it to the simplest components of Traits/TraitsUI+Matplotlib. The key difference here is that the backend is QT4 which leans heavily on the code found [here](https://gist.github.com/pierre-haessig/9838326).
+This template is an improved and upgrade template made from the pieces of my [Python2Template](https://github.com/bgriffen/PythonGUITemplate). I've removed MayAvi and reduced it to the simplest components of Traits/TraitsUI+Matplotlib. The key difference here is that the backend is QT5 which leans heavily on the code found [here](https://gist.github.com/pierre-haessig/9838326).
 
 ## Requirements
 
