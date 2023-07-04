@@ -1,6 +1,5 @@
-Python3 GUI Template^
+Python3 GUI Template
 =================
-^ using qt4+matplotlib
 
 ![View Upon Launch.](./PythonGUI_mac.png)
 
@@ -12,15 +11,11 @@ This template is an improved and upgrade template made from the pieces of my [Py
 
 I've stripped back the requirements and wrapped it all up in a conda environment file as the key to getting this working at the relevant version dependencies. There are two options to get you going, either:
 
-For Ubuntu (16.04 verified):
 ```
-conda env create -f Python3GUITemplate_ubuntu.yml
+pip install -r requirements.txt
 ```
 
-For Mac OSX (10.13.6 verified):
-```
-conda env create -f Python3GUITemplate_macosx.yml
-```
+Verified on Ubuntu (16.04 verified) and Mac OSX (10.13.6 verified):
 
 Be sure to update your conda should you run into any issues:
 ```
